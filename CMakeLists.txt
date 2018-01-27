@@ -3,5 +3,5 @@ project(Essential_CPP)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES C1/1.1.cpp)
+set(SOURCE_FILES C1/1.1.cpp C1/1.2.cpp)
 add_executable(Essential_CPP ${SOURCE_FILES})
