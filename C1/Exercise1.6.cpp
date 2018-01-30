@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <vector>
 
@@ -45,4 +46,4 @@ int main(){
     avg=(double)sum/num;
     cout << "总和为：" << sum << "平均数为：" << avg;
     return 0;
-}
+}*/
